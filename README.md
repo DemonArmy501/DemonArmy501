@@ -1,16 +1,20 @@
-### Hi there 👋
+# DemonArmy501
 
-<!--
-**DemonArmy501/DemonArmy501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey you babi! Welcome to DemonArmy501, where [tambahkan deskripsi proyek Anda di sini].
 
-Here are some ideas to get you started:
+![Demo](https://i.pinimg.com/originals/24/b6/c3/24b6c3cb67e625a51d8ac6ae492deb47.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Instalasi
+
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini.
+
+1. Langkah pertama
+2. Langkah kedua
+3. Dan seterusnya...
+
+## Penggunaan
+
+Jelaskan cara menggunakan proyek Anda di sini.
+
+```bash
+$ perintah penggunaan
